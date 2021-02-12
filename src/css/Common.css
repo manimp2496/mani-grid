@@ -1,0 +1,46 @@
+.p-datatable-tbody {
+  font-size: 15px;
+}
+.container {
+  margin-top: 50px;
+}
+.colrow {
+  margin-top: 30px;
+}
+.spanspace {
+  margin-left: 18%;
+}
+.head-5 {
+  position: absolute;
+  color: #138c13;
+}
+.sel-drp {
+  border: none;
+  width: 18%;
+}
+.sel-drp:focus {
+  border: none;
+  outline: 0;
+}
+
+.headerdata {
+  position: absolute;
+  top: 76px;
+}
+.div-clr {
+  color: #0ac30a;
+}
+.footclr {
+  color: #269df1 !important;
+  font-size: 18px;
+}
+.per-class {
+  color: red;
+  margin-left: 4px;
+}
+.footper {
+  margin-left: 3px;
+}
+.p-datatable .p-sortable-column:hover {
+  background: rgb(30 30 30) !important;
+}
